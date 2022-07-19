@@ -1,0 +1,82 @@
+body{
+    margin: 1rem 1rem 1rem 1rem;
+    
+    background-color: black;
+}
+#dav{
+    background-color:#000000;
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+    align-items: center;
+  justify-content: center;
+}
+.mainheadd{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+   
+}
+.fir{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+  
+}
+.first{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    text-align: center;
+    margin-top: 2.5rem;
+}
+/* .sortt{
+    /* display: flex;
+    justify-content: space-around; */
+    /* background-color: blanchedalmond; */
+/*} */
+button{
+   border: solid 1px rgb(24, 226, 237);
+   color: rgb(255, 255, 255);
+   background-color: black;
+}
+#bar
+{
+    height: 30em;
+    width: 50em;
+    background-color: rgb(6, 7, 5);
+    display: flex;
+    
+}
+
+
+.bar1
+{
+    background-color: rgb(24, 226, 237);
+}
+.bar10{
+    background-color: rgb(24, 226, 237);
+}
+.size{
+    color: rgb(0, 0, 0);
+    display: flex;
+    width:180px;
+    justify-content: space-between;
+}
+
+option{
+    
+    background-color:rgb(255, 255, 255);
+    margin-left: 1em;
+    
+}
+#arr_size1
+{
+    height: 1.5em;
+    width: 7em;
+}
+#arr_size
+{
+    height: 1.5em;
+    width: 5em;
+    margin-left: 1em;
+}
